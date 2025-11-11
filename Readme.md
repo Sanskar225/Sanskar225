@@ -35,7 +35,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar225&layout=compact&theme=radical" alt="Top Languages" height="180" width="355" />
   <img src="https://github-readme-stats.vercel.app/api?username=sanskar225&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=sanskar225&theme=radical" alt="GitHub Streak" height="200" />
+  <!-- <img src="https://streak-stats.demolab.com?user=sanskar225&theme=radical" alt="GitHub Streak" height="200" /> -->
 </p>
 
 ---
