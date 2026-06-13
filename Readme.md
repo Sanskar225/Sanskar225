@@ -1,5 +1,5 @@
 # 💫 About Me:
-Omni-Channel — building seamless multi-platform communication systems<br>Open source projects, system architecture and pipeline design from roots<br>System Design and leveling up Spring Boot skills<br>Flutter, PostgreSQL and Spring BootFlutter development, UI/UX design and Computer Science fundamentals<br>I'm a huge cricket fan 🏏 and love watching army documentaries 🎖️
+Omni-Channel — building seamless multi-platform communication systems<br>Open source projects, system architecture and pipeline design from roots<br>System Design <br>Full-stack, cloud,devops, UI/UX design and Computer Science fundamentals<br>I'm a huge cricket fan 🏏 and love watching army documentaries 🎖️
 
 
 ## 🌐 Socials:
