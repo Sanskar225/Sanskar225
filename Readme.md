@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 About Me:I'm a Full-Stack Developer who loves architecting production-grade systems — from microservices and event-driven pipelines to real-time WebSocket applications and AI-powered platforms. I care deeply about system design, scalability, and clean backend patterns that hold up under real-world load.
+
+Currently pursuing B.Tech in Computer Science at KIET Group of Institutions (2024–2028), and already shipping production-ready applications with measurable impact. AWS Certified Cloud Practitioner — I build on the cloud, not just for the cloud.
 Hi — i use to building seamless multi-platform communication systems<br>Open source projects, system architecture and pipeline design from roots<br>System Design <br>Full-stack, cloud,devops, UI/UX design and Computer Science fundamentals<br>I'm a huge cricket fan 🏏 and love watching army documentaries 🎖️
 
 
