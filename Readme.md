@@ -154,7 +154,7 @@ const sanskarSinha = {
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Activity 
 
 <div align="center">
 
