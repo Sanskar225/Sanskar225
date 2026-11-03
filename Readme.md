@@ -1,5 +1,5 @@
 <div align="center">
-
+                 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&height=220&section=header&text=Sanskar%20Sinha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Architect%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Open%20Source%20Builder&descSize=16&descAlignY=58&descColor=8b949e" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=750&height=45&lines=%E2%98%81%EF%B8%8F+AWS+Certified+Solutions+Architect+%26+Cloud+Practitioner;%E2%9A%99%EF%B8%8F+Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation;%F0%9F%9A%80+Creator+of+ForgeStack+(npx+%40sanskar225%2Fcreate-forgestack);%E2%9A%A1+SDE+Intern+%40+ModelSuite.ai+(Germany);%F0%9F%94%A5+300%2B+LeetCode+DSA+%E2%80%A2+Top+3.2%25+OpenCode'25+%E2%80%A2+SIH+Winner)](https://github.com/Sanskar225)
